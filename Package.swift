@@ -2,7 +2,7 @@
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
-let releaseTAG = "2.8.1"
+let releaseTAG = "2.8.2"
 let package = Package(
     name: "Approov",
     platforms: [.iOS(.v10)],
